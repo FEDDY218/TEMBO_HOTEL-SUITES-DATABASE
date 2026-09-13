@@ -47,11 +47,47 @@ The analysis covers:
 - Monthly revenue trends
 - Cancellations
 
+- ## Power BI Dashboard
+
+The cleaned and analyzed Tembo Hotel Suites data was also connected to Power BI to create an interactive dashboard.
+
+The dashboard helps visualize key hotel performance indicators and provides insights into:
+
+* Revenue performance
+* Guest ratings
+* Room performance
+* Booking activity
+* Guest locations
+* Cancellation patterns
+* Hotel performance trends
+
+### Dashboard Preview
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2743010-20b7-49b4-b9ba-ce54b2ea6b6d" />
+
+
+### Key Business Insights
+
+The dashboard was designed to help hotel management understand performance and identify areas that may require improvement.
+
+For example, the analysis can help the hotel:
+
+* Monitor revenue trends
+* Identify high- and low-performing room types
+* Understand guest satisfaction
+* Track booking and cancellation patterns
+* Understand where guests are coming from
+* Make more data-driven business decisions
+
+The Power BI dashboard complements the SQL analysis by turning the results into interactive visual insights.
+
+
 ## Tools Used
 
 - PostgreSQL
 - DBeaver
 - SQL
+- Power BI
 - GitHub
 
 ## Project Outcome
