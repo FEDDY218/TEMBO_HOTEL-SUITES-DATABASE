@@ -1,0 +1,287 @@
+booking_id,guest_name,guest_phone,guest_city,guest_nationality,room_no,room_type,room_rate_per_night,check_in_date,check_out_date,nights_stayed,staff_name,staff_department,staff_salary,payment_method,booking_status,total_amount,service_used,service_price,guest_rating
+BK0001,ALICE MWANGI,0712345678,Nairobi,Kenyan,101,Standard,5500,2024-01-05,2024-01-06,1,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,6000,Room Service,500,2
+BK0002,brian otieno,0723456789,Mombasa,Kenyan,103,Standard,5500,2024-01-06,2024-01-07,1,Brenda Achieng,Front Desk,42000,Cash,Checked Out,5500,,,2
+BK0003,  Carol Wanjiku  ,0734567890,Kisumu,Kenyan,201,Deluxe,8500,2024-01-07,2024-01-10,3,Tony Karanja,Housekeeping,32000,Card,Checked Out,25500,,,4
+BK0004,David Kamau,0745-678-901,Nairobi,Kenyan,203,Deluxe,8500,2024-01-08,2024-01-10,2,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Checked Out,18200,Breakfast Buffet,1200,3
+BK0005,Esther Njoroge,+254756789012,Nakuru,Kenyan,302,Suite,15000,2024-01-09,2024-01-13,4,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,60000,,,5
+BK0006,Felix Hassan,0767890123,Nairobi,Kenyan,101,Standard,5500,10/01/2024,15/01/2024,5,Amina Juma,Restaurant,65000,Cash,Checked Out,27500,,,2
+BK0007,Grace Achieng,0778901234,Eldoret,Kenyan,203,Deluxe,8500,01-12-2024,01-17-2024,5,Peter Ngugi,Security,30000,Card,Checked Out,43000,Swimming Pool,500,1
+BK0008,Henry Korir,0789012345,,Kenyan,302,Suite,15000,2024-01-13,2024-01-15,2,Joy Otieno,Management,120000,Bank Transfer,Checked Out,30000,,,4
+BK0009,Irene Chebet,0790123456,Thikax,Kenyan,101,Standard,5500,2024-01-14,2024-01-18,4,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,22000,,,3
+BK0006,Felix Hassan,0767890123,Nairobi,Kenyan,101,Standard,5500,10/01/2024,15/01/2024,5,Amina Juma,Restaurant,65000,Cash,Checked Out,27500,,,2
+BK0010,James Gitonga,0701234567,NAIROBI,Kenyan,103,Standard,5500,2024-01-15,2024-01-17,2,Brenda Achieng,Front Desk,42000,Cash,Checked Out,13500,Airport Pickup,2500,3
+BK0011,Karen Adhiambo,0712111222,Nairobi,Kenyan,201,deluxe,8500,2024-01-16,2024-01-17,1,Tony Karanja,Housekeeping,32000,Card,Checked Out,8500,,,1
+BK0012,Liam Mutua,0723222333,Machakos,Kenyan,102,Std,5500,2024-01-18,2024-01-19,1,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Cancelled,5500,,,4
+BK0013,Mary Waweru,0734333444,Nairobi,Kenyan,104,Standard,5500,2024-01-19,2024-01-24,5,Moses Kipchoge,Restaurant,35000,mpesa,Checked Out,42500,Conference Room,15000,4
+BK0014,Nathan Kipchoge,0745444555,Eldoret,Kenyan,202,Deluxe,8500,2024-01-20,2024-01-24,4,Amina Juma,Restaurant,65000,Cash,Checked Out,KES 34000,,,4
+BK0015,Olivia Maina,0756555666,Nairobi,Kenyan,301,Suite,15000,2024-01-21,2024-01-24,3,Peter Ngugi,Security,30000,Card,Checked Out,",",,,1
+BK0016,Patrick Ngugi,,Nyeri,Kenyan,401,Penthouse,25000,2024-01-22,2024-01-26,4,Joy Otieno,Management,120000,Bank Transfer,Checked Out,100800,Laundry,800,3
+BK0017,Quirine Abdi,0778777888,Nairobi,Kenyan,203,Deluxe,8500,2024-01-25,2024-01-30,5,Kelvin Omondi,Front Desk,42000,M-Pesa,checked out,42500,,,2
+BK0018,Rachel Mwenda,0789888999,Meru,Kenyan,302,Suite,15000,2024-01-26,2024-01-31,5,Brenda Achieng,Front Desk,42000,Cash,Checked Out,75000,,,6
+BK0019,Samuel Odhiambo,0790999000,Kisumu,Kenyan,101,Standard,5500,2024-01-27,2024-02-01,5,Tony Karanja,Housekeeping,"KES ,",Card,Checked Out,31000,Spa Treatment,3500,5
+BK0020,Tabitha Karanja,0701000111,Nairobi,Kenyan,103,Standard,5500,28-01-24,29-01-24,1,Fatuma Hassan,Housekeeping,48000,Bank Transfer,No Show,5500,,,5
+BK0021,ALICE MWANGI,0712345678,Nairobi,Kenyan,101,Standard,5500,2024-02-03,2024-02-06,3,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,16500,,,2
+BK0022,brian otieno,0723456789,Mombasa,Kenyan,103,Standard,5500,2024-02-04,2024-02-09,5,Amina Juma,Restaurant,65000,Cash,Checked Out,28000,Room Service,500,5
+BK0023,  Carol Wanjiku  ,0734567890,Kisumu,Kenyan,201,Deluxe,8500,2024-02-05,2024-02-06,1,Peter Ngugi,Security,30000,Card,Checked Out,8500,,,1
+BK0024,David Kamau,0745-678-901,Nairobi,Kenyan,203,Deluxe,8500,2024-02-06,2024-02-08,2,Joy Otieno,Management,120000,Bank Transfer,Cancelled,17000,,,5
+BK0025,Esther Njoroge,+254756789012,Nakuru,Kenyan,302,Suite,15000,2024-02-07,2024-02-10,3,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,46200,Breakfast Buffet,1200,1
+BK0026,Felix Hassan,0767890123,Nairobi,Kenyan,202,Deluxe,8500,10/02/2024,14/02/2024,4,Brenda Achieng,Front Desk,42000,Cash,Checked Out,34000,,,4
+BK0027,Grace Achieng,0778901234,Eldoret,Kenyan,301,Suite,15000,02-11-2024,02-16-2024,5,Tony Karanja,Housekeeping,32000,Card,Checked Out,75000,,,5
+BK0028,Henry Korir,0789012345,,Kenyan,401,Penthouse,25000,2024-02-12,2024-02-15,3,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Checked Out,75500,Swimming Pool,500,4
+BK0029,Irene Chebet,0790123456,Thikax,Kenyan,102,Standard,5500,2024-02-13,2024-02-18,5,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,27500,,,1
+BK0030,James Gitonga,0701234567,NAIROBI,Kenyan,104,Standard,5500,2024-02-14,2024-02-16,2,Amina Juma,Restaurant,65000,Cash,Checked Out,11000,,,2
+BK0031,Karen Adhiambo,0712111222,Nairobi,Kenyan,202,deluxe,8500,2024-02-15,2024-02-20,5,Peter Ngugi,Security,30000,Card,Checked Out,45000,Airport Pickup,2500,4
+BK0032,Liam Mutua,0723222333,Machakos,Kenyan,102,Std,5500,2024-02-17,2024-02-18,1,Joy Otieno,Management,120000,Bank Transfer,Checked Out,5500,,,1
+BK0033,Mary Waweru,0734333444,Nairobi,Kenyan,104,Standard,5500,2024-02-18,2024-02-21,3,Kelvin Omondi,Front Desk,42000,mpesa,Checked Out,16500,,,1
+BK0034,Nathan Kipchoge,0745444555,Eldoret,Kenyan,202,Deluxe,8500,2024-02-19,2024-02-23,4,Brenda Achieng,Front Desk,42000,Cash,Checked Out,KES 49000,Conference Room,15000,4
+BK0035,Olivia Maina,0756555666,Nairobi,Kenyan,301,Suite,15000,2024-02-20,2024-02-22,2,Tony Karanja,Housekeeping,32000,Card,Checked Out,",",,,4
+BK0036,Patrick Ngugi,,Nyeri,Kenyan,401,Penthouse,25000,2024-02-21,2024-02-24,3,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Cancelled,75000,,,4
+BK0037,Quirine Abdi,0778777888,Nairobi,Kenyan,203,Deluxe,8500,2024-02-24,2024-02-29,5,Moses Kipchoge,Restaurant,35000,M-Pesa,checked out,43300,Laundry,800,5
+BK0038,Rachel Mwenda,0789888999,Meru,Kenyan,302,Suite,15000,2024-02-25,2024-02-26,1,Amina Juma,Restaurant,65000,Cash,Checked Out,15000,,,6
+BK0039,Samuel Odhiambo,0790999000,Kisumu,Kenyan,101,Standard,5500,2024-02-26,2024-03-01,4,Peter Ngugi,Security,"KES ,",Card,Checked Out,22000,,,4
+BK0040,Tabitha Karanja,0701000111,Nairobi,Kenyan,103,Standard,5500,27-02-24,02-03-24,4,Joy Otieno,Management,120000,Bank Transfer,No Show,25500,Spa Treatment,3500,2
+BK0041,ALICE MWANGI,0712345678,Nairobi,Kenyan,201,Deluxe,8500,2024-02-28,2024-03-01,2,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,17000,,,4
+BK0042,brian otieno,0723456789,Mombasa,Kenyan,203,Deluxe,8500,2024-02-29,2024-03-05,5,Brenda Achieng,Front Desk,42000,Cash,Checked Out,42500,,,1
+BK0043,  Carol Wanjiku  ,0734567890,Kisumu,Kenyan,103,Standard,5500,2024-03-02,2024-03-04,2,Tony Karanja,Housekeeping,32000,Card,Checked Out,11500,Room Service,500,5
+BK0044,David Kamau,0745-678-901,Nairobi,Kenyan,201,Deluxe,8500,2024-03-03,2024-03-07,4,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Checked Out,34000,,,5
+BK0045,Esther Njoroge,+254756789012,Nakuru,Kenyan,203,Deluxe,8500,2024-03-04,2024-03-07,3,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,25500,,,1
+BK0046,Felix Hassan,0767890123,Nairobi,Kenyan,302,Suite,15000,05/03/2024,09/03/2024,4,Amina Juma,Restaurant,65000,Cash,Checked Out,61200,Breakfast Buffet,1200,1
+BK0047,Grace Achieng,0778901234,Eldoret,Kenyan,101,Standard,5500,03-06-2024,03-08-2024,2,Peter Ngugi,Security,30000,Card,Checked Out,11000,,,1
+BK0048,Henry Korir,0789012345,,Kenyan,301,Suite,15000,2024-03-09,2024-03-14,5,Joy Otieno,Management,120000,Bank Transfer,Cancelled,75000,,,1
+BK0049,Irene Chebet,0790123456,Thikax,Kenyan,401,Penthouse,25000,2024-03-10,2024-03-13,3,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,75500,Swimming Pool,500,4
+BK0050,James Gitonga,0701234567,NAIROBI,Kenyan,102,Standard,5500,2024-03-11,2024-03-12,1,Brenda Achieng,Front Desk,42000,Cash,Checked Out,5500,,,5
+BK0051,Karen Adhiambo,0712111222,Nairobi,Kenyan,104,standard,5500,2024-03-12,2024-03-16,4,Tony Karanja,Housekeeping,32000,Card,Checked Out,22000,,,5
+BK0052,Liam Mutua,0723222333,Machakos,Kenyan,102,Std,5500,2024-03-15,2024-03-18,3,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Checked Out,19000,Airport Pickup,2500,3
+BK0053,Mary Waweru,0734333444,Nairobi,Kenyan,104,Standard,5500,2024-03-16,2024-03-18,2,Moses Kipchoge,Restaurant,35000,mpesa,Checked Out,11000,,,2
+BK0054,Nathan Kipchoge,0745444555,Eldoret,Kenyan,202,Deluxe,8500,2024-03-17,2024-03-21,4,Amina Juma,Restaurant,65000,Cash,Checked Out,KES 34000,,,3
+BK0055,Olivia Maina,0756555666,Nairobi,Kenyan,301,Suite,15000,2024-03-18,2024-03-22,4,Peter Ngugi,Security,30000,Card,Checked Out,",",Conference Room,15000,2
+BK0056,Patrick Ngugi,,Nyeri,Kenyan,202,Deluxe,8500,2024-03-22,2024-03-26,4,Joy Otieno,Management,120000,Bank Transfer,Checked Out,34000,,,4
+BK0057,Quirine Abdi,0778777888,Nairobi,Kenyan,301,Suite,15000,2024-03-23,2024-03-27,4,Kelvin Omondi,Front Desk,42000,M-Pesa,checked out,60000,,,1
+BK0058,Rachel Mwenda,0789888999,Meru,Kenyan,401,Penthouse,25000,2024-03-24,2024-03-26,2,Brenda Achieng,Front Desk,42000,Cash,Checked Out,50800,Laundry,800,0
+BK0059,Samuel Odhiambo,0790999000,Kisumu,Kenyan,102,Standard,5500,2024-03-25,2024-03-29,4,Tony Karanja,Housekeeping,"KES ,",Card,Checked Out,22000,,,5
+BK0060,Tabitha Karanja,0701000111,Nairobi,Kenyan,401,Penthouse,25000,28-03-24,02-04-24,5,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Cancelled,125000,,,1
+BK0061,ALICE MWANGI,0712345678,Nairobi,Kenyan,102,Standard,5500,2024-03-29,2024-03-31,2,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,14500,Spa Treatment,3500,4
+BK0062,brian otieno,0723456789,Mombasa,Kenyan,104,Standard,5500,2024-03-30,2024-04-03,4,Amina Juma,Restaurant,65000,Cash,Checked Out,22000,,,3
+BK0063,  Carol Wanjiku  ,0734567890,Kisumu,Kenyan,202,Deluxe,8500,2024-03-31,2024-04-03,3,Peter Ngugi,Security,30000,Card,Checked Out,25500,,,4
+BK0064,David Kamau,0745-678-901,Nairobi,Kenyan,301,Suite,15000,2024-04-01,2024-04-04,3,Joy Otieno,Management,120000,Bank Transfer,Checked Out,45500,Room Service,500,2
+BK0065,Esther Njoroge,+254756789012,Nakuru,Kenyan,401,Penthouse,25000,2024-04-02,2024-04-05,3,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,75000,,,4
+BK0066,Felix Hassan,0767890123,Nairobi,Kenyan,202,Deluxe,8500,05/04/2024,08/04/2024,3,Brenda Achieng,Front Desk,42000,Cash,Checked Out,25500,,,2
+BK0067,Grace Achieng,0778901234,Eldoret,Kenyan,301,Suite,15000,04-06-2024,04-10-2024,4,Tony Karanja,Housekeeping,32000,Card,Checked Out,61200,Breakfast Buffet,1200,3
+BK0068,Henry Korir,0789012345,,Kenyan,401,Penthouse,25000,2024-04-07,2024-04-12,5,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Checked Out,125000,,,4
+BK0069,Irene Chebet,0790123456,Thikax,Kenyan,102,Standard,5500,2024-04-08,2024-04-11,3,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,16500,,,1
+BK0070,James Gitonga,0701234567,NAIROBI,Kenyan,401,Penthouse,25000,2024-04-12,2024-04-13,1,Amina Juma,Restaurant,65000,Cash,Checked Out,25500,Swimming Pool,500,3
+BK0071,Karen Adhiambo,0712111222,Nairobi,Kenyan,102,standard,5500,2024-04-13,2024-04-16,3,Peter Ngugi,Security,30000,Card,Checked Out,16500,,,5
+BK0072,Liam Mutua,0723222333,Machakos,Kenyan,104,Std,5500,2024-04-14,2024-04-18,4,Joy Otieno,Management,120000,Bank Transfer,Cancelled,22000,,,3
+BK0073,Mary Waweru,0734333444,Nairobi,Kenyan,202,Deluxe,8500,2024-04-15,2024-04-19,4,Kelvin Omondi,Front Desk,42000,mpesa,Checked Out,36500,Airport Pickup,2500,3
+BK0074,Nathan Kipchoge,0745444555,Eldoret,Kenyan,104,Standard,5500,2024-04-19,2024-04-21,2,Brenda Achieng,Front Desk,42000,Cash,Checked Out,KES 11000,,,1
+BK0075,Olivia Maina,0756555666,Nairobi,Kenyan,202,Deluxe,8500,2024-04-20,2024-04-24,4,Tony Karanja,Housekeeping,32000,Card,Checked Out,",",,,1
+BK0076,Patrick Ngugi,,Nyeri,Kenyan,301,Suite,15000,2024-04-21,2024-04-23,2,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Checked Out,45000,Conference Room,15000,2
+BK0077,Quirine Abdi,0778777888,Nairobi,Kenyan,401,Penthouse,25000,2024-04-22,2024-04-23,1,Moses Kipchoge,Restaurant,35000,M-Pesa,checked out,25000,,,1
+BK0078,Rachel Mwenda,0789888999,Meru,Kenyan,102,Standard,5500,2024-04-23,2024-04-25,2,Amina Juma,Restaurant,65000,Cash,Checked Out,11000,,,0
+BK0079,Samuel Odhiambo,0790999000,Kisumu,Kenyan,302,Suite,15000,2024-04-26,2024-04-30,4,Peter Ngugi,Security,"KES ,",Card,Checked Out,60800,Laundry,800,2
+BK0080,Tabitha Karanja,0701000111,Nairobi,Kenyan,101,Standard,5500,27-04-24,30-04-24,3,Joy Otieno,Management,120000,Bank Transfer,No Show,16500,,,4
+BK0081,ALICE MWANGI,0712345678,Nairobi,Kenyan,103,Standard,5500,2024-04-28,2024-05-03,5,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,27500,,,5
+BK0082,brian otieno,0723456789,Mombasa,Kenyan,201,Deluxe,8500,2024-04-29,2024-05-01,2,Brenda Achieng,Front Desk,42000,Cash,Checked Out,20500,Spa Treatment,3500,2
+BK0083,  Carol Wanjiku  ,0734567890,Kisumu,Kenyan,203,Deluxe,8500,2024-04-30,2024-05-05,5,Tony Karanja,Housekeeping,32000,Card,Checked Out,42500,,,4
+BK0084,David Kamau,0745-678-901,Nairobi,Kenyan,104,Standard,5500,2024-05-03,2024-05-04,1,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Cancelled,5500,,,4
+BK0085,Esther Njoroge,+254756789012,Nakuru,Kenyan,202,Deluxe,8500,2024-05-04,2024-05-09,5,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,43000,Room Service,500,1
+BK0086,Felix Hassan,0767890123,Nairobi,Kenyan,301,Suite,15000,05/05/2024,08/05/2024,3,Amina Juma,Restaurant,65000,Cash,Checked Out,45000,,,4
+BK0087,Grace Achieng,0778901234,Eldoret,Kenyan,401,Penthouse,25000,05-06-2024,05-08-2024,2,Peter Ngugi,Security,30000,Card,Checked Out,50000,,,5
+BK0088,Henry Korir,0789012345,,Kenyan,301,Suite,15000,2024-05-10,2024-05-12,2,Joy Otieno,Management,120000,Bank Transfer,Checked Out,31200,Breakfast Buffet,1200,3
+BK0089,Irene Chebet,0790123456,Thikax,Kenyan,401,Penthouse,25000,2024-05-11,2024-05-12,1,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,25000,,,2
+BK0090,James Gitonga,0701234567,NAIROBI,Kenyan,102,Standard,5500,2024-05-12,2024-05-16,4,Brenda Achieng,Front Desk,42000,Cash,Checked Out,22000,,,1
+BK0091,Karen Adhiambo,0712111222,Nairobi,Kenyan,104,standard,5500,2024-05-13,2024-05-14,1,Tony Karanja,Housekeeping,32000,Card,Checked Out,6000,Swimming Pool,500,1
+BK0092,Liam Mutua,0723222333,Machakos,Kenyan,102,Std,5500,2024-05-17,2024-05-21,4,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Checked Out,22000,,,3
+BK0093,Mary Waweru,0734333444,Nairobi,Kenyan,104,Standard,5500,2024-05-18,2024-05-19,1,Moses Kipchoge,Restaurant,35000,mpesa,Checked Out,5500,,,3
+BK0094,Nathan Kipchoge,0745444555,Eldoret,Kenyan,202,Deluxe,8500,2024-05-19,2024-05-21,2,Amina Juma,Restaurant,65000,Cash,Checked Out,KES 19500,Airport Pickup,2500,1
+BK0095,Olivia Maina,0756555666,Nairobi,Kenyan,301,Suite,15000,2024-05-20,2024-05-24,4,Peter Ngugi,Security,30000,Card,Checked Out,",",,,2
+BK0096,Patrick Ngugi,,Nyeri,Kenyan,401,Penthouse,25000,2024-05-21,2024-05-22,1,Joy Otieno,Management,120000,Bank Transfer,Cancelled,25000,,,1
+BK0097,Quirine Abdi,0778777888,Nairobi,Kenyan,203,Deluxe,8500,2024-05-24,2024-05-25,1,Kelvin Omondi,Front Desk,42000,M-Pesa,checked out,23500,Conference Room,15000,4
+BK0098,Rachel Mwenda,0789888999,Meru,Kenyan,302,Suite,15000,2024-05-25,2024-05-29,4,Brenda Achieng,Front Desk,42000,Cash,Checked Out,60000,,,6
+BK0099,Samuel Odhiambo,0790999000,Kisumu,Kenyan,101,Standard,5500,2024-05-26,2024-05-29,3,Tony Karanja,Housekeeping,"KES ,",Card,Checked Out,16500,,,5
+BK0100,Tabitha Karanja,0701000111,Nairobi,Kenyan,103,Standard,5500,27-05-24,29-05-24,2,Fatuma Hassan,Housekeeping,48000,Bank Transfer,No Show,11800,Laundry,800,4
+BK0101,ALICE MWANGI,0712345678,Nairobi,Kenyan,201,Deluxe,8500,2024-05-28,2024-05-29,1,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,8500,,,5
+BK0102,brian otieno,0723456789,Mombasa,Kenyan,102,Standard,5500,2024-06-01,2024-06-03,2,Amina Juma,Restaurant,65000,Cash,Checked Out,11000,,,4
+BK0103,  Carol Wanjiku  ,0734567890,Kisumu,Kenyan,104,Standard,5500,2024-06-02,2024-06-04,2,Peter Ngugi,Security,30000,Card,Checked Out,14500,Spa Treatment,3500,5
+BK0104,David Kamau,0745-678-901,Nairobi,Kenyan,202,Deluxe,8500,2024-06-03,2024-06-08,5,Joy Otieno,Management,120000,Bank Transfer,Checked Out,42500,,,1
+BK0105,Esther Njoroge,+254756789012,Nakuru,Kenyan,301,Suite,15000,2024-06-04,2024-06-07,3,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,45000,,,3
+BK0106,Felix Hassan,0767890123,Nairobi,Kenyan,401,Penthouse,25000,05/06/2024,09/06/2024,4,Brenda Achieng,Front Desk,42000,Cash,Checked Out,100500,Room Service,500,1
+BK0107,Grace Achieng,0778901234,Eldoret,Kenyan,102,Standard,5500,06-06-2024,06-07-2024,1,Tony Karanja,Housekeeping,32000,Card,Checked Out,5500,,,3
+BK0108,Henry Korir,0789012345,,Kenyan,301,Suite,15000,2024-06-08,2024-06-11,3,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Cancelled,45000,,,1
+BK0109,Irene Chebet,0790123456,Thikax,Kenyan,401,Penthouse,25000,2024-06-09,2024-06-10,1,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,26200,Breakfast Buffet,1200,4
+BK0110,James Gitonga,0701234567,NAIROBI,Kenyan,102,Standard,5500,2024-06-10,2024-06-11,1,Amina Juma,Restaurant,65000,Cash,Checked Out,5500,,,4
+BK0111,Karen Adhiambo,0712111222,Nairobi,Kenyan,104,standard,5500,2024-06-11,2024-06-12,1,Peter Ngugi,Security,30000,Card,Checked Out,5500,,,5
+BK0112,Liam Mutua,0723222333,Machakos,Kenyan,202,DLX,8500,2024-06-12,2024-06-17,5,Joy Otieno,Management,120000,Bank Transfer,Checked Out,43000,Swimming Pool,500,1
+BK0113,Mary Waweru,0734333444,Nairobi,Kenyan,103,Standard,5500,2024-06-15,2024-06-18,3,Kelvin Omondi,Front Desk,42000,mpesa,Checked Out,16500,,,4
+BK0114,Nathan Kipchoge,0745444555,Eldoret,Kenyan,201,Deluxe,8500,2024-06-16,2024-06-17,1,Brenda Achieng,Front Desk,42000,Cash,Checked Out,KES 8500,,,4
+BK0115,Olivia Maina,0756555666,Nairobi,Kenyan,203,Deluxe,8500,2024-06-17,2024-06-18,1,Tony Karanja,Housekeeping,32000,Card,Checked Out,",",Airport Pickup,2500,5
+BK0116,Patrick Ngugi,,Nyeri,Kenyan,302,Suite,15000,2024-06-18,2024-06-20,2,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Checked Out,30000,,,4
+BK0117,Quirine Abdi,0778777888,Nairobi,Kenyan,203,Deluxe,8500,2024-06-22,2024-06-26,4,Moses Kipchoge,Restaurant,35000,M-Pesa,checked out,34000,,,3
+BK0118,Rachel Mwenda,0789888999,Meru,Kenyan,302,Suite,15000,2024-06-23,2024-06-25,2,Amina Juma,Restaurant,65000,Cash,Checked Out,45000,Conference Room,15000,6
+BK0119,Samuel Odhiambo,0790999000,Kisumu,Kenyan,101,Standard,5500,2024-06-24,2024-06-25,1,Peter Ngugi,Security,"KES ,",Card,Checked Out,5500,,,4
+BK0120,Tabitha Karanja,0701000111,Nairobi,Kenyan,103,Standard,5500,25-06-24,28-06-24,3,Joy Otieno,Management,120000,Bank Transfer,Cancelled,16500,,,5
+BK0121,ALICE MWANGI,0712345678,Nairobi,Kenyan,201,Deluxe,8500,2024-06-26,2024-06-27,1,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,9300,Laundry,800,2
+BK0122,brian otieno,0723456789,Mombasa,Kenyan,203,Deluxe,8500,2024-06-27,2024-06-29,2,Brenda Achieng,Front Desk,42000,Cash,Checked Out,17000,,,5
+BK0123,  Carol Wanjiku  ,0734567890,Kisumu,Kenyan,103,Standard,5500,2024-07-05,2024-07-06,1,Tony Karanja,Housekeeping,32000,Card,Checked Out,5500,,,1
+BK0124,David Kamau,0745-678-901,Nairobi,Kenyan,201,Deluxe,8500,2024-07-06,2024-07-10,4,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Checked Out,37500,Spa Treatment,3500,3
+BK0125,Esther Njoroge,+254756789012,Nakuru,Kenyan,203,Deluxe,8500,2024-07-07,2024-07-08,1,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,8500,,,1
+BK0126,Felix Hassan,0767890123,Nairobi,Kenyan,302,Suite,15000,08/07/2024,12/07/2024,4,Amina Juma,Restaurant,65000,Cash,Checked Out,60000,,,1
+BK0127,Grace Achieng,0778901234,Eldoret,Kenyan,203,Deluxe,8500,07-12-2024,07-14-2024,2,Peter Ngugi,Security,30000,Card,Checked Out,17500,Room Service,500,1
+BK0128,Henry Korir,0789012345,,Kenyan,302,Suite,15000,2024-07-13,2024-07-18,5,Joy Otieno,Management,120000,Bank Transfer,Checked Out,75000,,,2
+BK0129,Irene Chebet,0790123456,Thikax,Kenyan,101,Standard,5500,2024-07-14,2024-07-16,2,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,11000,,,1
+BK0130,James Gitonga,0701234567,NAIROBI,Kenyan,103,Standard,5500,2024-07-15,2024-07-18,3,Brenda Achieng,Front Desk,42000,Cash,Checked Out,17700,Breakfast Buffet,1200,4
+BK0131,Karen Adhiambo,0712111222,Nairobi,Kenyan,201,deluxe,8500,2024-07-16,2024-07-19,3,Tony Karanja,Housekeeping,32000,Card,Checked Out,25500,,,5
+BK0132,Liam Mutua,0723222333,Machakos,Kenyan,203,DLX,8500,2024-07-17,2024-07-19,2,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Cancelled,17000,,,4
+BK0133,Mary Waweru,0734333444,Nairobi,Kenyan,103,Standard,5500,2024-07-19,2024-07-22,3,Moses Kipchoge,Restaurant,35000,mpesa,Checked Out,17000,Swimming Pool,500,2
+BK0134,Nathan Kipchoge,0745444555,Eldoret,Kenyan,201,Deluxe,8500,2024-07-20,2024-07-23,3,Amina Juma,Restaurant,65000,Cash,Checked Out,KES 25500,,,2
+BK0135,Olivia Maina,0756555666,Nairobi,Kenyan,203,Deluxe,8500,2024-07-21,2024-07-26,5,Peter Ngugi,Security,30000,Card,Checked Out,"42,500",,,5
+BK0136,Patrick Ngugi,,Nyeri,Kenyan,302,Suite,15000,2024-07-22,2024-07-24,2,Joy Otieno,Management,120000,Bank Transfer,Checked Out,32500,Airport Pickup,2500,2
+BK0137,Quirine Abdi,0778777888,Nairobi,Kenyan,101,Standard,5500,2024-07-23,2024-07-25,2,Kelvin Omondi,Front Desk,42000,M-Pesa,checked out,11000,,,3
+BK0138,Rachel Mwenda,0789888999,Meru,Kenyan,301,Suite,15000,2024-07-26,2024-07-30,4,Brenda Achieng,Front Desk,42000,Cash,Checked Out,60000,,,6
+BK0139,Samuel Odhiambo,0790999000,Kisumu,Kenyan,401,Penthouse,25000,2024-07-27,2024-07-29,2,Tony Karanja,Housekeeping,"KES ,",Card,Checked Out,65000,Conference Room,15000,4
+BK0140,Tabitha Karanja,0701000111,Nairobi,Kenyan,102,Standard,5500,28-07-24,30-07-24,2,Fatuma Hassan,Housekeeping,48000,Bank Transfer,No Show,11000,,,3
+BK0141,ALICE MWANGI,0712345678,Nairobi,Kenyan,104,Standard,5500,2024-07-29,2024-08-01,3,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,16500,,,5
+BK0142,brian otieno,0723456789,Mombasa,Kenyan,102,Standard,5500,2024-08-02,2024-08-06,4,Amina Juma,Restaurant,65000,Cash,Checked Out,22800,Laundry,800,5
+BK0143,  Carol Wanjiku  ,0734567890,Kisumu,Kenyan,104,Standard,5500,2024-08-03,2024-08-06,3,Peter Ngugi,Security,30000,Card,Checked Out,16500,,,2
+BK0144,David Kamau,0745-678-901,Nairobi,Kenyan,202,Deluxe,8500,2024-08-04,2024-08-06,2,Joy Otieno,Management,120000,Bank Transfer,Cancelled,17000,,,3
+BK0145,Esther Njoroge,+254756789012,Nakuru,Kenyan,301,Suite,15000,2024-08-05,2024-08-07,2,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,33500,Spa Treatment,3500,1
+BK0146,Felix Hassan,0767890123,Nairobi,Kenyan,401,Penthouse,25000,06/08/2024,10/08/2024,4,Brenda Achieng,Front Desk,42000,Cash,Checked Out,100000,,,1
+BK0147,Grace Achieng,0778901234,Eldoret,Kenyan,203,Deluxe,8500,08-09-2024,08-12-2024,3,Tony Karanja,Housekeeping,32000,Card,Checked Out,25500,,,4
+BK0148,Henry Korir,0789012345,,Kenyan,302,Suite,15000,2024-08-10,2024-08-12,2,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Checked Out,30500,Room Service,500,1
+BK0149,Irene Chebet,0790123456,Thikax,Kenyan,101,Standard,5500,2024-08-11,2024-08-13,2,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,11000,,,1
+BK0150,James Gitonga,0701234567,NAIROBI,Kenyan,103,Standard,5500,2024-08-12,2024-08-15,3,Amina Juma,Restaurant,65000,Cash,Checked Out,16500,,,5
+BK0151,Karen Adhiambo,0712111222,Nairobi,Kenyan,101,standard,5500,2024-08-16,2024-08-18,2,Peter Ngugi,Security,30000,Card,Checked Out,12200,Breakfast Buffet,1200,5
+BK0152,Liam Mutua,0723222333,Machakos,Kenyan,103,Std,5500,2024-08-17,2024-08-18,1,Joy Otieno,Management,120000,Bank Transfer,Checked Out,5500,,,3
+BK0153,Mary Waweru,0734333444,Nairobi,Kenyan,201,Deluxe,8500,2024-08-18,2024-08-19,1,Kelvin Omondi,Front Desk,42000,mpesa,Checked Out,8500,,,3
+BK0154,Nathan Kipchoge,0745444555,Eldoret,Kenyan,203,Deluxe,8500,2024-08-19,2024-08-21,2,Brenda Achieng,Front Desk,42000,Cash,Checked Out,KES 17500,Swimming Pool,500,5
+BK0155,Olivia Maina,0756555666,Nairobi,Kenyan,201,Deluxe,8500,2024-08-23,2024-08-24,1,Tony Karanja,Housekeeping,32000,Card,Checked Out,"8,500",,,2
+BK0156,Patrick Ngugi,,Nyeri,Kenyan,203,Deluxe,8500,2024-08-24,2024-08-26,2,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Cancelled,17000,,,2
+BK0157,Quirine Abdi,0778777888,Nairobi,Kenyan,302,Suite,15000,2024-08-25,2024-08-27,2,Moses Kipchoge,Restaurant,35000,M-Pesa,checked out,32500,Airport Pickup,2500,3
+BK0158,Rachel Mwenda,0789888999,Meru,Kenyan,101,Standard,5500,2024-08-26,2024-08-29,3,Amina Juma,Restaurant,65000,Cash,Checked Out,16500,,,6
+BK0159,Samuel Odhiambo,0790999000,Kisumu,Kenyan,103,Standard,5500,2024-08-27,2024-09-01,5,Peter Ngugi,Security,"KES ,",Card,Checked Out,27500,,,5
+BK0160,Tabitha Karanja,0701000111,Nairobi,Kenyan,401,Penthouse,25000,06-09-24,10-09-24,4,Joy Otieno,Management,120000,Bank Transfer,No Show,115000,Conference Room,15000,5
+BK0161,ALICE MWANGI,0712345678,Nairobi,Kenyan,102,Standard,5500,2024-09-07,2024-09-11,4,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,22000,,,4
+BK0162,brian otieno,0723456789,Mombasa,Kenyan,104,Standard,5500,2024-09-08,2024-09-11,3,Brenda Achieng,Front Desk,42000,Cash,Checked Out,16500,,,4
+BK0163,  Carol Wanjiku  ,0734567890,Kisumu,Kenyan,202,Deluxe,8500,2024-09-09,2024-09-12,3,Tony Karanja,Housekeeping,32000,Card,Checked Out,26300,Laundry,800,2
+BK0164,David Kamau,0745-678-901,Nairobi,Kenyan,104,Standard,5500,2024-09-13,2024-09-15,2,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Checked Out,11000,,,2
+BK0165,Esther Njoroge,+254756789012,Nakuru,Kenyan,202,Deluxe,8500,2024-09-14,2024-09-16,2,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,17000,,,3
+BK0166,Felix Hassan,0767890123,Nairobi,Kenyan,301,Suite,15000,15/09/2024,18/09/2024,3,Amina Juma,Restaurant,65000,Cash,Checked Out,48500,Spa Treatment,3500,5
+BK0167,Grace Achieng,0778901234,Eldoret,Kenyan,401,Penthouse,25000,09-16-2024,09-21-2024,5,Peter Ngugi,Security,30000,Card,Checked Out,125000,,,1
+BK0168,Henry Korir,0789012345,,Kenyan,102,Standard,5500,2024-09-17,2024-09-22,5,Joy Otieno,Management,120000,Bank Transfer,Cancelled,27500,,,4
+BK0169,Irene Chebet,0790123456,Thikax,Kenyan,302,Suite,15000,2024-09-20,2024-09-21,1,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,15500,Room Service,500,3
+BK0170,James Gitonga,0701234567,NAIROBI,Kenyan,101,Standard,5500,2024-09-21,2024-09-26,5,Brenda Achieng,Front Desk,42000,Cash,Checked Out,27500,,,1
+BK0171,Karen Adhiambo,0712111222,Nairobi,Kenyan,103,standard,5500,2024-09-22,2024-09-23,1,Tony Karanja,Housekeeping,32000,Card,Checked Out,5500,,,1
+BK0172,Liam Mutua,0723222333,Machakos,Kenyan,201,DLX,8500,2024-09-23,2024-09-24,1,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Checked Out,9700,Breakfast Buffet,1200,5
+BK0173,Mary Waweru,0734333444,Nairobi,Kenyan,203,Deluxe,8500,2024-09-24,2024-09-28,4,Moses Kipchoge,Restaurant,35000,mpesa,Checked Out,34000,,,1
+BK0174,Nathan Kipchoge,0745444555,Eldoret,Kenyan,302,Suite,15000,2024-09-25,2024-09-26,1,Amina Juma,Restaurant,65000,Cash,Checked Out,KES 15000,,,1
+BK0175,Olivia Maina,0756555666,Nairobi,Kenyan,201,Deluxe,8500,2024-09-27,2024-09-29,2,Peter Ngugi,Security,30000,Card,Checked Out,"17,500",Swimming Pool,500,4
+BK0176,Patrick Ngugi,,Nyeri,Kenyan,203,Deluxe,8500,2024-09-28,2024-09-30,2,Joy Otieno,Management,120000,Bank Transfer,Checked Out,17000,,,5
+BK0177,Quirine Abdi,0778777888,Nairobi,Kenyan,302,Suite,15000,2024-09-29,2024-10-03,4,Kelvin Omondi,Front Desk,42000,M-Pesa,checked out,60000,,,4
+BK0178,Rachel Mwenda,0789888999,Meru,Kenyan,101,Standard,5500,2024-09-30,2024-10-05,5,Brenda Achieng,Front Desk,42000,Cash,Checked Out,30000,Airport Pickup,2500,0
+BK0179,Samuel Odhiambo,0790999000,Kisumu,Kenyan,302,Suite,15000,2024-10-04,2024-10-06,2,Tony Karanja,Housekeeping,"KES ,",Card,Checked Out,30000,,,5
+BK0180,Tabitha Karanja,0701000111,Nairobi,Kenyan,101,Standard,5500,05-10-24,10-10-24,5,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Cancelled,27500,,,1
+BK0181,ALICE MWANGI,0712345678,Nairobi,Kenyan,103,Standard,5500,2024-10-06,2024-10-08,2,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,26000,Conference Room,15000,4
+BK0182,brian otieno,0723456789,Mombasa,Kenyan,201,Deluxe,8500,2024-10-07,2024-10-08,1,Amina Juma,Restaurant,65000,Cash,Checked Out,8500,,,1
+BK0183,  Carol Wanjiku  ,0734567890,Kisumu,Kenyan,203,Deluxe,8500,2024-10-08,2024-10-10,2,Peter Ngugi,Security,30000,Card,Checked Out,17000,,,1
+BK0184,David Kamau,0745-678-901,Nairobi,Kenyan,302,Suite,15000,2024-10-09,2024-10-12,3,Joy Otieno,Management,120000,Bank Transfer,Checked Out,45800,Laundry,800,5
+BK0185,Esther Njoroge,+254756789012,Nakuru,Kenyan,201,Deluxe,8500,2024-10-11,2024-10-15,4,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,34000,,,5
+BK0186,Felix Hassan,0767890123,Nairobi,Kenyan,203,Deluxe,8500,12/10/2024,13/10/2024,1,Brenda Achieng,Front Desk,42000,Cash,Checked Out,8500,,,4
+BK0187,Grace Achieng,0778901234,Eldoret,Kenyan,302,Suite,15000,10-13-2024,10-14-2024,1,Tony Karanja,Housekeeping,32000,Card,Checked Out,18500,Spa Treatment,3500,4
+BK0188,Henry Korir,0789012345,,Kenyan,101,Standard,5500,2024-10-14,2024-10-15,1,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Checked Out,5500,,,1
+BK0189,Irene Chebet,0790123456,Thikax,Kenyan,103,Standard,5500,2024-10-15,2024-10-19,4,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,22000,,,1
+BK0190,James Gitonga,0701234567,NAIROBI,Kenyan,201,Deluxe,8500,2024-10-16,2024-10-18,2,Amina Juma,Restaurant,65000,Cash,Checked Out,17500,Room Service,500,2
+BK0191,Karen Adhiambo,0712111222,Nairobi,Kenyan,101,standard,5500,2024-10-18,2024-10-20,2,Peter Ngugi,Security,30000,Card,Checked Out,11000,,,1
+BK0192,Liam Mutua,0723222333,Machakos,Kenyan,103,Std,5500,2024-10-19,2024-10-22,3,Joy Otieno,Management,120000,Bank Transfer,Cancelled,16500,,,5
+BK0193,Mary Waweru,0734333444,Nairobi,Kenyan,201,Deluxe,8500,2024-10-20,2024-10-24,4,Kelvin Omondi,Front Desk,42000,mpesa,Checked Out,35200,Breakfast Buffet,1200,3
+BK0194,Nathan Kipchoge,0745444555,Eldoret,Kenyan,203,Deluxe,8500,2024-10-21,2024-10-26,5,Brenda Achieng,Front Desk,42000,Cash,Checked Out,KES 42500,,,1
+BK0195,Olivia Maina,0756555666,Nairobi,Kenyan,302,Suite,15000,2024-10-22,2024-10-25,3,Tony Karanja,Housekeeping,32000,Card,Checked Out,",",,,5
+BK0196,Patrick Ngugi,,Nyeri,Kenyan,101,Standard,5500,2024-10-23,2024-10-27,4,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Checked Out,22500,Swimming Pool,500,1
+BK0197,Quirine Abdi,0778777888,Nairobi,Kenyan,203,Deluxe,8500,2024-10-25,2024-10-29,4,Moses Kipchoge,Restaurant,35000,M-Pesa,checked out,34000,,,4
+BK0198,Rachel Mwenda,0789888999,Meru,Kenyan,302,Suite,15000,2024-10-26,2024-10-31,5,Amina Juma,Restaurant,65000,Cash,Checked Out,75000,,,0
+BK0199,Samuel Odhiambo,0790999000,Kisumu,Kenyan,101,Standard,5500,2024-10-27,2024-10-30,3,Peter Ngugi,Security,"KES ,",Card,Checked Out,19000,Airport Pickup,2500,1
+BK0200,Tabitha Karanja,0701000111,Nairobi,Kenyan,103,Standard,5500,28-10-24,01-11-24,4,Joy Otieno,Management,120000,Bank Transfer,No Show,22000,,,4
+BK0201,ALICE MWANGI,0712345678,Nairobi,Kenyan,201,Deluxe,8500,2024-10-29,2024-10-31,2,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,17000,,,1
+BK0202,brian otieno,0723456789,Mombasa,Kenyan,102,Standard,5500,2024-11-01,2024-11-03,2,Brenda Achieng,Front Desk,42000,Cash,Checked Out,26000,Conference Room,15000,3
+BK0203,  Carol Wanjiku  ,0734567890,Kisumu,Kenyan,104,Standard,5500,2024-11-02,2024-11-03,1,Tony Karanja,Housekeeping,32000,Card,Checked Out,5500,,,5
+BK0204,David Kamau,0745-678-901,Nairobi,Kenyan,202,Deluxe,8500,2024-11-03,2024-11-08,5,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Cancelled,42500,,,1
+BK0205,Esther Njoroge,+254756789012,Nakuru,Kenyan,301,Suite,15000,2024-11-04,2024-11-09,5,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,75800,Laundry,800,2
+BK0206,Felix Hassan,0767890123,Nairobi,Kenyan,202,Deluxe,8500,08/11/2024,10/11/2024,2,Amina Juma,Restaurant,65000,Cash,Checked Out,17000,,,3
+BK0207,Grace Achieng,0778901234,Eldoret,Kenyan,301,Suite,15000,11-09-2024,11-11-2024,2,Peter Ngugi,Security,30000,Card,Checked Out,30000,,,3
+BK0208,Henry Korir,0789012345,,Kenyan,401,Penthouse,25000,2024-11-10,2024-11-13,3,Joy Otieno,Management,120000,Bank Transfer,Checked Out,78500,Spa Treatment,3500,4
+BK0209,Irene Chebet,0790123456,Thikax,Kenyan,102,Standard,5500,2024-11-11,2024-11-12,1,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,5500,,,2
+BK0210,James Gitonga,0701234567,NAIROBI,Kenyan,104,Standard,5500,2024-11-12,2024-11-15,3,Brenda Achieng,Front Desk,42000,Cash,Checked Out,16500,,,3
+BK0211,Karen Adhiambo,0712111222,Nairobi,Kenyan,202,deluxe,8500,2024-11-13,2024-11-16,3,Tony Karanja,Housekeeping,32000,Card,Checked Out,26000,Room Service,500,4
+BK0212,Liam Mutua,0723222333,Machakos,Kenyan,102,Std,5500,2024-11-15,2024-11-20,5,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Checked Out,27500,,,3
+BK0213,Mary Waweru,0734333444,Nairobi,Kenyan,104,Standard,5500,2024-11-16,2024-11-17,1,Moses Kipchoge,Restaurant,35000,mpesa,Checked Out,5500,,,2
+BK0214,Nathan Kipchoge,0745444555,Eldoret,Kenyan,202,Deluxe,8500,2024-11-17,2024-11-21,4,Amina Juma,Restaurant,65000,Cash,Checked Out,KES 35200,Breakfast Buffet,1200,4
+BK0215,Olivia Maina,0756555666,Nairobi,Kenyan,301,Suite,15000,2024-11-18,2024-11-22,4,Peter Ngugi,Security,30000,Card,Checked Out,",",,,2
+BK0216,Patrick Ngugi,,Nyeri,Kenyan,401,Penthouse,25000,2024-11-19,2024-11-24,5,Joy Otieno,Management,120000,Bank Transfer,Cancelled,125000,,,5
+BK0217,Quirine Abdi,0778777888,Nairobi,Kenyan,203,Deluxe,8500,2024-11-22,2024-11-24,2,Kelvin Omondi,Front Desk,42000,M-Pesa,checked out,17500,Swimming Pool,500,3
+BK0218,Rachel Mwenda,0789888999,Meru,Kenyan,302,Suite,15000,2024-11-23,2024-11-28,5,Brenda Achieng,Front Desk,42000,Cash,Checked Out,75000,,,6
+BK0219,Samuel Odhiambo,0790999000,Kisumu,Kenyan,101,Standard,5500,2024-11-24,2024-11-29,5,Tony Karanja,Housekeeping,"KES ,",Card,Checked Out,27500,,,2
+BK0220,Tabitha Karanja,0701000111,Nairobi,Kenyan,103,Standard,5500,25-11-24,30-11-24,5,Fatuma Hassan,Housekeeping,48000,Bank Transfer,No Show,30000,Airport Pickup,2500,2
+BK0221,ALICE MWANGI,0712345678,Nairobi,Kenyan,101,Standard,5500,2024-12-06,2024-12-11,5,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,27500,,,1
+BK0222,brian otieno,0723456789,Mombasa,Kenyan,103,Standard,5500,2024-12-07,2024-12-11,4,Amina Juma,Restaurant,65000,Cash,Checked Out,22000,,,5
+BK0223,  Carol Wanjiku  ,0734567890,Kisumu,Kenyan,201,Deluxe,8500,2024-12-08,2024-12-12,4,Peter Ngugi,Security,30000,Card,Checked Out,49000,Conference Room,15000,2
+BK0224,David Kamau,0745-678-901,Nairobi,Kenyan,203,Deluxe,8500,2024-12-09,2024-12-14,5,Joy Otieno,Management,120000,Bank Transfer,Checked Out,42500,,,3
+BK0225,Esther Njoroge,+254756789012,Nakuru,Kenyan,201,Deluxe,8500,2024-12-13,2024-12-18,5,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,42500,,,2
+BK0226,Felix Hassan,0767890123,Nairobi,Kenyan,203,Deluxe,8500,14/12/2024,16/12/2024,2,Brenda Achieng,Front Desk,42000,Cash,Checked Out,17800,Laundry,800,3
+BK0227,Grace Achieng,0778901234,Eldoret,Kenyan,302,Suite,15000,12-15-2024,12-17-2024,2,Tony Karanja,Housekeeping,32000,Card,Checked Out,30000,,,5
+BK0228,Henry Korir,0789012345,,Kenyan,101,Standard,5500,2024-12-16,2024-12-20,4,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Cancelled,22000,,,3
+BK0229,Irene Chebet,0790123456,Thikax,Kenyan,302,Suite,15000,2024-12-20,2024-12-24,4,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,63500,Spa Treatment,3500,3
+BK0230,James Gitonga,0701234567,NAIROBI,Kenyan,101,Standard,5500,2024-12-21,2024-12-25,4,Amina Juma,Restaurant,65000,Cash,Checked Out,22000,,,3
+BK0231,Karen Adhiambo,0712111222,Nairobi,Kenyan,103,standard,5500,2024-12-22,2024-12-23,1,Peter Ngugi,Security,30000,Card,Checked Out,5500,,,4
+BK0232,Liam Mutua,0723222333,Machakos,Kenyan,201,DLX,8500,2024-12-23,2024-12-25,2,Joy Otieno,Management,120000,Bank Transfer,Checked Out,17500,Room Service,500,4
+BK0233,Mary Waweru,0734333444,Nairobi,Kenyan,203,Deluxe,8500,2024-12-24,2024-12-27,3,Kelvin Omondi,Front Desk,42000,mpesa,Checked Out,25500,,,4
+BK0234,Nathan Kipchoge,0745444555,Eldoret,Kenyan,302,Suite,15000,2024-12-25,2024-12-30,5,Brenda Achieng,Front Desk,42000,Cash,Checked Out,KES 75000,,,1
+BK0235,Olivia Maina,0756555666,Nairobi,Kenyan,201,Deluxe,8500,2024-12-27,2024-12-30,3,Tony Karanja,Housekeeping,32000,Card,Checked Out,"26,700",Breakfast Buffet,1200,4
+BK0236,Patrick Ngugi,,Nyeri,Kenyan,203,Deluxe,8500,2024-12-28,2024-12-29,1,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Checked Out,8500,,,3
+BK0237,Quirine Abdi,0778777888,Nairobi,Kenyan,302,Suite,15000,2024-12-29,2025-01-01,3,Moses Kipchoge,Restaurant,35000,M-Pesa,checked out,45000,,,3
+BK0238,Rachel Mwenda,0789888999,Meru,Kenyan,101,Standard,5500,2024-12-30,2025-01-02,3,Amina Juma,Restaurant,65000,Cash,Checked Out,17000,Swimming Pool,500,6
+BK0239,Samuel Odhiambo,0790999000,Kisumu,Kenyan,103,Standard,5500,2024-12-31,2025-01-05,5,Peter Ngugi,Security,"KES ,",Card,Checked Out,27500,,,4
+BK0240,Tabitha Karanja,0701000111,Nairobi,Kenyan,401,Penthouse,25000,10-06-23,14-06-23,4,Joy Otieno,Management,120000,Bank Transfer,Cancelled,100000,,,2
+BK0241,ALICE MWANGI,0712345678,Nairobi,Kenyan,102,Standard,5500,2023-06-11,2023-06-16,5,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,30000,Airport Pickup,2500,5
+BK0242,brian otieno,0723456789,Mombasa,Kenyan,104,Standard,5500,2023-06-12,2023-06-13,1,Brenda Achieng,Front Desk,42000,Cash,Checked Out,5500,,,2
+BK0243,  Carol Wanjiku  ,0734567890,Kisumu,Kenyan,202,Deluxe,8500,2023-06-13,2023-06-18,5,Tony Karanja,Housekeeping,32000,Card,Checked Out,42500,,,1
+BK0244,David Kamau,0745-678-901,Nairobi,Kenyan,104,Standard,5500,2023-07-15,2023-07-19,4,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Checked Out,37000,Conference Room,15000,4
+BK0245,Esther Njoroge,+254756789012,Nakuru,Kenyan,202,Deluxe,8500,2023-07-16,2023-07-18,2,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,17000,,,3
+BK0246,Felix Hassan,0767890123,Nairobi,Kenyan,301,Suite,15000,17/07/2023,22/07/2023,5,Amina Juma,Restaurant,65000,Cash,Checked Out,75000,,,1
+BK0247,Grace Achieng,0778901234,Eldoret,Kenyan,401,Penthouse,25000,07-18-2023,07-19-2023,1,Peter Ngugi,Security,30000,Card,Checked Out,25800,Laundry,800,4
+BK0248,Henry Korir,0789012345,,Kenyan,102,Standard,5500,2023-07-19,2023-07-20,1,Joy Otieno,Management,120000,Bank Transfer,Checked Out,5500,,,5
+BK0249,Irene Chebet,0790123456,Thikax,Kenyan,104,Standard,5500,2023-07-20,2023-07-24,4,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,22000,,,4
+BK0250,James Gitonga,0701234567,NAIROBI,Kenyan,401,Penthouse,25000,2023-08-20,2023-08-22,2,Brenda Achieng,Front Desk,42000,Cash,Checked Out,53500,Spa Treatment,3500,4
+BK0251,Karen Adhiambo,0712111222,Nairobi,Kenyan,102,standard,5500,2023-08-21,2023-08-25,4,Tony Karanja,Housekeeping,32000,Card,Checked Out,22000,,,3
+BK0252,Liam Mutua,0723222333,Machakos,Kenyan,104,Std,5500,2023-08-22,2023-08-27,5,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Cancelled,27500,,,2
+BK0253,Mary Waweru,0734333444,Nairobi,Kenyan,202,Deluxe,8500,2023-08-23,2023-08-27,4,Moses Kipchoge,Restaurant,35000,mpesa,Checked Out,34500,Room Service,500,1
+BK0254,Nathan Kipchoge,0745444555,Eldoret,Kenyan,104,Standard,5500,2023-09-05,2023-09-08,3,Amina Juma,Restaurant,65000,Cash,Checked Out,KES 16500,,,2
+BK0255,Olivia Maina,0756555666,Nairobi,Kenyan,202,Deluxe,8500,2023-09-06,2023-09-11,5,Peter Ngugi,Security,30000,Card,Checked Out,"42,500",,,1
+BK0256,Patrick Ngugi,,Nyeri,Kenyan,301,Suite,15000,2023-09-07,2023-09-10,3,Joy Otieno,Management,120000,Bank Transfer,Checked Out,46200,Breakfast Buffet,1200,5
+BK0257,Quirine Abdi,0778777888,Nairobi,Kenyan,401,Penthouse,25000,2023-09-08,2023-09-09,1,Kelvin Omondi,Front Desk,42000,M-Pesa,checked out,25000,,,4
+BK0258,Rachel Mwenda,0789888999,Meru,Kenyan,102,Standard,5500,2023-09-09,2023-09-13,4,Brenda Achieng,Front Desk,42000,Cash,Checked Out,22000,,,0
+BK0259,Samuel Odhiambo,0790999000,Kisumu,Kenyan,302,Suite,15000,2023-10-10,2023-10-12,2,Tony Karanja,Housekeeping,"KES ,",Card,Checked Out,30500,Swimming Pool,500,2
+BK0260,Tabitha Karanja,0701000111,Nairobi,Kenyan,101,Standard,5500,11-10-23,16-10-23,5,Fatuma Hassan,Housekeeping,48000,Bank Transfer,No Show,27500,,,4
+BK0261,ALICE MWANGI,0712345678,Nairobi,Kenyan,103,Standard,5500,2023-10-12,2023-10-15,3,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,16500,,,4
+BK0262,brian otieno,0723456789,Mombasa,Kenyan,201,Deluxe,8500,2023-10-13,2023-10-18,5,Amina Juma,Restaurant,65000,Cash,Checked Out,45000,Airport Pickup,2500,2
+BK0263,  Carol Wanjiku  ,0734567890,Kisumu,Kenyan,103,Standard,5500,2023-11-11,2023-11-13,2,Peter Ngugi,Security,30000,Card,Checked Out,11000,,,5
+BK0264,David Kamau,0745-678-901,Nairobi,Kenyan,201,Deluxe,8500,2023-11-12,2023-11-16,4,Joy Otieno,Management,120000,Bank Transfer,Cancelled,34000,,,3
+BK0265,Esther Njoroge,+254756789012,Nakuru,Kenyan,203,Deluxe,8500,2023-11-13,2023-11-15,2,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,32000,Conference Room,15000,2
+BK0266,Felix Hassan,0767890123,Nairobi,Kenyan,302,Suite,15000,14/11/2023,18/11/2023,4,Brenda Achieng,Front Desk,42000,Cash,Checked Out,60000,,,5
+BK0267,Grace Achieng,0778901234,Eldoret,Kenyan,101,Standard,5500,11-15-2023,11-19-2023,4,Tony Karanja,Housekeeping,32000,Card,Checked Out,22000,,,2
+BK0268,Henry Korir,0789012345,,Kenyan,103,Standard,5500,2023-11-16,2023-11-19,3,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Checked Out,17300,Laundry,800,5
+BK0269,Irene Chebet,0790123456,Thikax,Kenyan,302,Suite,15000,2023-12-20,2023-12-22,2,Moses Kipchoge,Restaurant,35000,M-Pesa,Checked Out,30000,,,4
+BK0270,James Gitonga,0701234567,NAIROBI,Kenyan,101,Standard,5500,2023-12-21,2023-12-26,5,Amina Juma,Restaurant,65000,Cash,Checked Out,27500,,,2
+BK0271,Karen Adhiambo,0712111222,Nairobi,Kenyan,103,standard,5500,2023-12-22,2023-12-26,4,Peter Ngugi,Security,30000,Card,Checked Out,25500,Spa Treatment,3500,1
+BK0272,Liam Mutua,0723222333,Machakos,Kenyan,201,DLX,8500,2023-12-23,2023-12-25,2,Joy Otieno,Management,120000,Bank Transfer,Checked Out,17000,,,5
+BK0273,Mary Waweru,0734333444,Nairobi,Kenyan,203,Deluxe,8500,2023-12-24,2023-12-29,5,Kelvin Omondi,Front Desk,42000,mpesa,Checked Out,42500,,,4
+BK0274,Nathan Kipchoge,0745444555,Eldoret,Kenyan,302,Suite,15000,2023-12-25,2023-12-29,4,Brenda Achieng,Front Desk,42000,Cash,Checked Out,KES 60500,Room Service,500,2
+BK0275,Olivia Maina,0756555666,Nairobi,Kenyan,201,Deluxe,8500,2023-12-25,2023-12-29,4,Tony Karanja,Housekeeping,32000,Card,Checked Out,",",,,4
+BK0276,Patrick Ngugi,,Nyeri,Kenyan,203,Deluxe,8500,2023-12-26,2023-12-29,3,Fatuma Hassan,Housekeeping,48000,Bank Transfer,Cancelled,25500,,,3
+BK0277,Quirine Abdi,0778777888,Nairobi,Kenyan,302,Suite,15000,2023-12-27,2024-01-01,5,Moses Kipchoge,Restaurant,35000,M-Pesa,checked out,76200,Breakfast Buffet,1200,5
+BK0278,Rachel Mwenda,0789888999,Meru,Kenyan,101,Standard,5500,2023-12-28,2024-01-01,4,Amina Juma,Restaurant,65000,Cash,Checked Out,22000,,,0
+BK9001,John Doe,0700000001,Nairobi,Kenyan,201,Deluxe,8500,2024-08-01,2024-08-03,2,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,,Room Service,500,4
+BK9002,Jane Smith,0700000002,Mombasa,Kenyan,101,Standard,5500,2024-09-10,2024-09-08,2,Brenda Achieng,Front Desk,42000,Cash,Checked Out,11000,,, 3
+BK9003,PETER MWANGI,0700000003,NAIROBI,Kenyan,301,Suite,15000,2024-10-05,2024-10-02,-3,Tony Karanja,Housekeeping,32000,Card,Checked Out,"KES ,",Spa Treatment,3500,5
+BK9004,grace wanjiru,  0700000004  ,kisumu,Kenyan,202,deluxe,8500,05/11/2024,08/11/2024,3,Fatuma Hassan,Housekeeping,48000,mpesa,checked out,25500,Laundry,800,
+BK9005,Alice Mwangi,0712345678,Nairobi,Kenyan,103,Standard,5500,15-11-2024,17-11-2024,2,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,11000,,, 4
+BK9006,ALICE MWANGI,0712345678,Nairobi,Kenyan,103,Standard,5500,2024-11-20,2024-11-22,2,Kelvin Omondi,Front Desk,42000,M-Pesa,Checked Out,11000,,, 4
+BK9007,Samuel Odhiambo,0790999000,kisumu,KENYAN,202,Deluxe,8500,2024-12-01,2024-12-04,3,Moses Kipchoge,Restaurant,"KES ,",Cash,Checked Out,25500,Breakfast Buffet,1200,3
